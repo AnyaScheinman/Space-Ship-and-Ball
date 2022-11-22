@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vy5zrUnSSmJXc48WN4kQZ5sazYygxROA9rahvsVZ6ehMWtkL8yycvm+aXZTAfm/Y/tDM2dflsARqMG+Q3kcK8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anyas\\Desktop\\School\\Game Prog\\Assingment 3\\Assingment3ShipGame\\Assingment3ShipGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anyas\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\anyas\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
